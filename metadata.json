@@ -1,0 +1,6 @@
+{
+  "name": "FitAI Coach",
+  "description": "Premium AI-powered personal fitness coach. Personalized workout plans, intelligent progress tracking, active workout companion, and real-time AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
